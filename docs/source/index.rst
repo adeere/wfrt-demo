@@ -11,6 +11,7 @@ Welcome to Chris_Seminar_Project's documentation!
    :caption: Contents:
 
    api
+   test
 
 
 Indices and tables
